@@ -72,7 +72,7 @@ JSON Report:
 
 Developed automation scripts using the BDD approach
 
-Tests are written in the Cucumber framework using the Gherkin Syntax. More about Gherkin & Cucumber can be found at [here](https://cucumber.io/docs/reference) (https://cucumber.io/docs/gherkin/) A typical test will look similar to this:
+Tests are written in the Cucumber framework using the Gherkin Syntax. More about [Gherkin](https://cucumber.io/docs/gherkin/) & Cucumber can be found at [here](https://cucumber.io/docs/reference) A typical test will look similar to this:
 
 Feature: Performing a Yahoo Search
 
